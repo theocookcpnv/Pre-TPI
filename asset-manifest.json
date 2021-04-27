@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a7a64b5.chunk.css",
-    "main.js": "/static/js/main.765e0556.chunk.js",
-    "main.js.map": "/static/js/main.765e0556.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.633f7768.js",
-    "runtime-main.js.map": "/static/js/runtime-main.633f7768.js.map",
-    "static/js/2.a8244611.chunk.js": "/static/js/2.a8244611.chunk.js",
-    "static/js/2.a8244611.chunk.js.map": "/static/js/2.a8244611.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4a7a64b5.chunk.css.map": "/static/css/main.4a7a64b5.chunk.css.map",
-    "static/js/2.a8244611.chunk.js.LICENSE.txt": "/static/js/2.a8244611.chunk.js.LICENSE.txt",
-    "static/media/bg2.32c7eec6.jpg": "/static/media/bg2.32c7eec6.jpg",
-    "static/media/bgHome.6f604013.png": "/static/media/bgHome.6f604013.png",
-    "static/media/enDespi.81eb1334.PNG": "/static/media/enDespi.81eb1334.PNG",
-    "static/media/sweatshirt.2807b7c0.png": "/static/media/sweatshirt.2807b7c0.png"
+    "main.css": "/Pre-TPI/templates/static/css/main.4a7a64b5.chunk.css",
+    "main.js": "/Pre-TPI/templates/static/js/main.765e0556.chunk.js",
+    "main.js.map": "/Pre-TPI/templates/static/js/main.765e0556.chunk.js.map",
+    "runtime-main.js": "/Pre-TPI/templates/static/js/runtime-main.47251391.js",
+    "runtime-main.js.map": "/Pre-TPI/templates/static/js/runtime-main.47251391.js.map",
+    "static/js/2.a8244611.chunk.js": "/Pre-TPI/templates/static/js/2.a8244611.chunk.js",
+    "static/js/2.a8244611.chunk.js.map": "/Pre-TPI/templates/static/js/2.a8244611.chunk.js.map",
+    "index.html": "/Pre-TPI/templates/index.html",
+    "static/css/main.4a7a64b5.chunk.css.map": "/Pre-TPI/templates/static/css/main.4a7a64b5.chunk.css.map",
+    "static/js/2.a8244611.chunk.js.LICENSE.txt": "/Pre-TPI/templates/static/js/2.a8244611.chunk.js.LICENSE.txt",
+    "static/media/bg2.32c7eec6.jpg": "/Pre-TPI/templates/static/media/bg2.32c7eec6.jpg",
+    "static/media/bgHome.6f604013.png": "/Pre-TPI/templates/static/media/bgHome.6f604013.png",
+    "static/media/enDespi.81eb1334.PNG": "/Pre-TPI/templates/static/media/enDespi.81eb1334.PNG",
+    "static/media/sweatshirt.2807b7c0.png": "/Pre-TPI/templates/static/media/sweatshirt.2807b7c0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.633f7768.js",
+    "static/js/runtime-main.47251391.js",
     "static/js/2.a8244611.chunk.js",
     "static/css/main.4a7a64b5.chunk.css",
     "static/js/main.765e0556.chunk.js"
